@@ -11,3 +11,12 @@
 ## Telegram下载地址
 ### Windows: https://github.com/telegramdesktop/tdesktop/releases
 ### Android: https://telegram.en.uptodown.com/android/download
+
+## 发现了一个可以直连访问的SSR订阅地址
+https://eyyy.herokuapp.com/subscribe
+
+http://ss-ssshare.7e14.starter-us-west-2.openshiftapps.com/subscribe
+
+https://aoxuaudaadaoeu.herokuapp.com/subscribe
+
+
